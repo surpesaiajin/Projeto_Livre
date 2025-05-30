@@ -1,5 +1,12 @@
 Definição: Um programa para criar uma interface simples, com banco de dados, que permite administrar o estoque de uma loja de games. Permitindo adicionar e excluir produtos do tipo Console, Jogo e Controle, assim como visualiza-los de maneira separada.
 
+Utiliza python como linguagem principal. Sqlite para o banco de dados. Tkinter para a interface gráfica.
+
+Como executar:
+- Clone o repositório: git clone https://github.com/seuusuario/Loja_Games.git
+cd Loja_Games
+- Execute o sistema com o comando: python3 -m main.py
+
 Casos de Uso:
 1. Adicionar Produto
 

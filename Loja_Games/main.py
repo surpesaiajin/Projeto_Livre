@@ -10,3 +10,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# rode com pyhton3 -m main
